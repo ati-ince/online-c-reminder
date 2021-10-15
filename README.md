@@ -8,10 +8,24 @@ remind me old fashioned coding style
 ### Create and include header files
 
 ### Variables, Data Types
+
+**Data Types**: char, wchar_t, int, float, double, bool, and void
+**Type Modifiers**: unsigned, signed, long, short (float, bool, and wchart_t can get modifiers)
+
 ### _Bool and extra data types
 ### Bit fields
 ### Operators
-### Type casting, Implicit types, Typedef 
+### Typecasting, Implicit / Explicit types, Typedef 
+
+**In C** there is 2 type of casting:
+
+1. Data type casting like int to float data type transformation. Has to be sure there is no data loss when casting. 
+2. Pointer casting
+
+**In C++** following different paths for casting has 5 different cast, the methods:
+const_cast, static_cast, static_cast -> const_cast, reinterpret_cast, reinterpret_cast -> const_cast
+
+
 ### Take input from user, scanf etc and Prints, format characters
 ### Working with String
 ### Functions 
