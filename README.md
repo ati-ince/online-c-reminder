@@ -1,24 +1,23 @@
-# online-c-reminder
-remind me old fashioned coding style
+# online-cpp-reminder
+
 
 ## Some Samples
 
-### Compile and Run
-### Compilation 
-### Create and include header files
+## Compile and Run
+## Compilation 
+## Create and include header files
 
-### Variables, Data Types
+## Variables, Data Types
 
 **Data Types**: char, wchar_t, int, float, double, bool, and void
 **Type Modifiers**: unsigned, signed, long, short (float, bool, and wchart_t can get modifiers)
 
-### _Bool and extra data types
-### Bit fields
-### Operators
-### Typecasting, Implicit / Explicit types, Typedef 
+## _Bool and extra data types
+## Bit fields
+## Operators
+## Typecasting, Implicit / Explicit types, Typedef 
 
 **In C** there is 2 type of casting:
-
 1. Data type casting like int to float data type transformation. Has to be sure there is no data loss when casting. 
 2. Pointer casting
 
@@ -26,42 +25,44 @@ remind me old fashioned coding style
 const_cast, static_cast, static_cast -> const_cast, reinterpret_cast, reinterpret_cast -> const_cast
 
 
-### Take input from user, scanf etc and Prints, format characters
-### Working with String
-### Functions 
-### Inlining
-### If, else; Case
-### Loops: for, while etc. 
-### Arrays
-### Structs (Storage Classes, Unions, )
-### Pointers
-### Memory management (Allocation etc)
+## Take input from user, scanf etc and Prints, format characters
+## Working with String
+## Functions
+ - In well-written c++ code, a function only performs one task.
+## Inlining
+## If, else; Case
+## Loops: for, while etc. 
+## Arrays
+## Structs (Storage Classes, Unions, )
+## Pointers
+## Memory management (Allocation etc)
 
-### Preprocessor and Macros
+## Preprocessor and Macros
+## **main** function and its arguments
 
-### Error Handling
-### Assertion
+## Error Handling
+## Assertion
 
-### Function Pointers and passing parameters
+## Function Pointers and passing parameters
 
-### Initialization of variables and other data types
+## Initialization of variables and other data types
 
-### Threads (native), Multithreading 
+## Threads (native), Multithreading 
 
-### Interprocess Communication (IPC) 
+## Interprocess Communication (IPC) 
 
-### Linked List
-### Enumarations
+## Linked List
+## Enumarations
 
-### Files and I/O Streams
+## Files and I/O Streams
 
-### Signal handling
+## Signal handling
 
-### Testing Frameworks
+## Testing Frameworks
 
-### Undefined behavior and Some Notes
+## Undefined behavior and Some Notes
 
-## Sources:
+## **Sources:**
 1. https://goalkicker.com/CBook/CNotesForProfessionals.pdf
 2. https://youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2
 3. 
